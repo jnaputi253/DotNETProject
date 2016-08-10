@@ -1,0 +1,3135 @@
+fileFormatVersion: 2
+guid: 7c8c9aba15f91a042b3d116063c03f0b
+timeCreated: 1470111472
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Dust An Elysian Tail - Forest Objects (1)_0
+    21300002: PC Computer - Dust An Elysian Tail - Forest Objects (1)_1
+    21300004: PC Computer - Dust An Elysian Tail - Forest Objects (1)_2
+    21300006: PC Computer - Dust An Elysian Tail - Forest Objects (1)_3
+    21300008: PC Computer - Dust An Elysian Tail - Forest Objects (1)_4
+    21300010: PC Computer - Dust An Elysian Tail - Forest Objects (1)_5
+    21300012: PC Computer - Dust An Elysian Tail - Forest Objects (1)_6
+    21300014: PC Computer - Dust An Elysian Tail - Forest Objects (1)_7
+    21300016: PC Computer - Dust An Elysian Tail - Forest Objects (1)_8
+    21300018: PC Computer - Dust An Elysian Tail - Forest Objects (1)_9
+    21300020: PC Computer - Dust An Elysian Tail - Forest Objects (1)_10
+    21300022: PC Computer - Dust An Elysian Tail - Forest Objects (1)_11
+    21300024: PC Computer - Dust An Elysian Tail - Forest Objects (1)_12
+    21300026: PC Computer - Dust An Elysian Tail - Forest Objects (1)_13
+    21300028: PC Computer - Dust An Elysian Tail - Forest Objects (1)_14
+    21300030: PC Computer - Dust An Elysian Tail - Forest Objects (1)_15
+    21300032: PC Computer - Dust An Elysian Tail - Forest Objects (1)_16
+    21300034: PC Computer - Dust An Elysian Tail - Forest Objects (1)_17
+    21300036: PC Computer - Dust An Elysian Tail - Forest Objects (1)_18
+    21300038: PC Computer - Dust An Elysian Tail - Forest Objects (1)_19
+    21300040: PC Computer - Dust An Elysian Tail - Forest Objects (1)_20
+    21300042: PC Computer - Dust An Elysian Tail - Forest Objects (1)_21
+    21300044: PC Computer - Dust An Elysian Tail - Forest Objects (1)_22
+    21300046: PC Computer - Dust An Elysian Tail - Forest Objects (1)_23
+    21300048: PC Computer - Dust An Elysian Tail - Forest Objects (1)_24
+    21300050: PC Computer - Dust An Elysian Tail - Forest Objects (1)_25
+    21300052: PC Computer - Dust An Elysian Tail - Forest Objects (1)_26
+    21300054: PC Computer - Dust An Elysian Tail - Forest Objects (1)_27
+    21300056: PC Computer - Dust An Elysian Tail - Forest Objects (1)_28
+    21300058: PC Computer - Dust An Elysian Tail - Forest Objects (1)_29
+    21300060: PC Computer - Dust An Elysian Tail - Forest Objects (1)_30
+    21300062: PC Computer - Dust An Elysian Tail - Forest Objects (1)_31
+    21300064: PC Computer - Dust An Elysian Tail - Forest Objects (1)_32
+    21300066: PC Computer - Dust An Elysian Tail - Forest Objects (1)_33
+    21300068: PC Computer - Dust An Elysian Tail - Forest Objects (1)_34
+    21300070: PC Computer - Dust An Elysian Tail - Forest Objects (1)_35
+    21300072: PC Computer - Dust An Elysian Tail - Forest Objects (1)_36
+    21300074: PC Computer - Dust An Elysian Tail - Forest Objects (1)_37
+    21300076: PC Computer - Dust An Elysian Tail - Forest Objects (1)_38
+    21300078: PC Computer - Dust An Elysian Tail - Forest Objects (1)_39
+    21300080: PC Computer - Dust An Elysian Tail - Forest Objects (1)_40
+    21300082: PC Computer - Dust An Elysian Tail - Forest Objects (1)_41
+    21300084: PC Computer - Dust An Elysian Tail - Forest Objects (1)_42
+    21300086: PC Computer - Dust An Elysian Tail - Forest Objects (1)_43
+    21300088: PC Computer - Dust An Elysian Tail - Forest Objects (1)_44
+    21300090: PC Computer - Dust An Elysian Tail - Forest Objects (1)_45
+    21300092: PC Computer - Dust An Elysian Tail - Forest Objects (1)_46
+    21300094: PC Computer - Dust An Elysian Tail - Forest Objects (1)_47
+    21300096: PC Computer - Dust An Elysian Tail - Forest Objects (1)_48
+    21300098: PC Computer - Dust An Elysian Tail - Forest Objects (1)_49
+    21300100: PC Computer - Dust An Elysian Tail - Forest Objects (1)_50
+    21300102: PC Computer - Dust An Elysian Tail - Forest Objects (1)_51
+    21300104: PC Computer - Dust An Elysian Tail - Forest Objects (1)_52
+    21300106: PC Computer - Dust An Elysian Tail - Forest Objects (1)_53
+    21300108: PC Computer - Dust An Elysian Tail - Forest Objects (1)_54
+    21300110: PC Computer - Dust An Elysian Tail - Forest Objects (1)_55
+    21300112: PC Computer - Dust An Elysian Tail - Forest Objects (1)_56
+    21300114: PC Computer - Dust An Elysian Tail - Forest Objects (1)_57
+    21300116: PC Computer - Dust An Elysian Tail - Forest Objects (1)_58
+    21300118: PC Computer - Dust An Elysian Tail - Forest Objects (1)_59
+    21300120: PC Computer - Dust An Elysian Tail - Forest Objects (1)_60
+    21300122: PC Computer - Dust An Elysian Tail - Forest Objects (1)_61
+    21300124: PC Computer - Dust An Elysian Tail - Forest Objects (1)_62
+    21300126: PC Computer - Dust An Elysian Tail - Forest Objects (1)_63
+    21300128: PC Computer - Dust An Elysian Tail - Forest Objects (1)_64
+    21300130: PC Computer - Dust An Elysian Tail - Forest Objects (1)_65
+    21300132: PC Computer - Dust An Elysian Tail - Forest Objects (1)_66
+    21300134: PC Computer - Dust An Elysian Tail - Forest Objects (1)_67
+    21300136: PC Computer - Dust An Elysian Tail - Forest Objects (1)_68
+    21300138: PC Computer - Dust An Elysian Tail - Forest Objects (1)_69
+    21300140: PC Computer - Dust An Elysian Tail - Forest Objects (1)_70
+    21300142: PC Computer - Dust An Elysian Tail - Forest Objects (1)_71
+    21300144: PC Computer - Dust An Elysian Tail - Forest Objects (1)_72
+    21300146: PC Computer - Dust An Elysian Tail - Forest Objects (1)_73
+    21300148: PC Computer - Dust An Elysian Tail - Forest Objects (1)_74
+    21300150: PC Computer - Dust An Elysian Tail - Forest Objects (1)_75
+    21300152: PC Computer - Dust An Elysian Tail - Forest Objects (1)_76
+    21300154: PC Computer - Dust An Elysian Tail - Forest Objects (1)_77
+    21300156: PC Computer - Dust An Elysian Tail - Forest Objects (1)_78
+    21300158: PC Computer - Dust An Elysian Tail - Forest Objects (1)_79
+    21300160: PC Computer - Dust An Elysian Tail - Forest Objects (1)_80
+    21300162: PC Computer - Dust An Elysian Tail - Forest Objects (1)_81
+    21300164: PC Computer - Dust An Elysian Tail - Forest Objects (1)_82
+    21300166: PC Computer - Dust An Elysian Tail - Forest Objects (1)_83
+    21300168: PC Computer - Dust An Elysian Tail - Forest Objects (1)_84
+    21300170: PC Computer - Dust An Elysian Tail - Forest Objects (1)_85
+    21300172: PC Computer - Dust An Elysian Tail - Forest Objects (1)_86
+    21300174: PC Computer - Dust An Elysian Tail - Forest Objects (1)_87
+    21300176: PC Computer - Dust An Elysian Tail - Forest Objects (1)_88
+    21300178: PC Computer - Dust An Elysian Tail - Forest Objects (1)_89
+    21300180: PC Computer - Dust An Elysian Tail - Forest Objects (1)_90
+    21300182: PC Computer - Dust An Elysian Tail - Forest Objects (1)_91
+    21300184: PC Computer - Dust An Elysian Tail - Forest Objects (1)_92
+    21300186: PC Computer - Dust An Elysian Tail - Forest Objects (1)_93
+    21300188: PC Computer - Dust An Elysian Tail - Forest Objects (1)_94
+    21300190: PC Computer - Dust An Elysian Tail - Forest Objects (1)_95
+    21300192: PC Computer - Dust An Elysian Tail - Forest Objects (1)_96
+    21300194: PC Computer - Dust An Elysian Tail - Forest Objects (1)_97
+    21300196: PC Computer - Dust An Elysian Tail - Forest Objects (1)_98
+    21300198: PC Computer - Dust An Elysian Tail - Forest Objects (1)_99
+    21300200: PC Computer - Dust An Elysian Tail - Forest Objects (1)_100
+    21300202: PC Computer - Dust An Elysian Tail - Forest Objects (1)_101
+    21300204: PC Computer - Dust An Elysian Tail - Forest Objects (1)_102
+    21300206: PC Computer - Dust An Elysian Tail - Forest Objects (1)_103
+    21300208: PC Computer - Dust An Elysian Tail - Forest Objects (1)_104
+    21300210: PC Computer - Dust An Elysian Tail - Forest Objects (1)_105
+    21300212: PC Computer - Dust An Elysian Tail - Forest Objects (1)_106
+    21300214: PC Computer - Dust An Elysian Tail - Forest Objects (1)_107
+    21300216: PC Computer - Dust An Elysian Tail - Forest Objects (1)_108
+    21300218: PC Computer - Dust An Elysian Tail - Forest Objects (1)_109
+    21300220: PC Computer - Dust An Elysian Tail - Forest Objects (1)_110
+    21300222: PC Computer - Dust An Elysian Tail - Forest Objects (1)_111
+    21300224: PC Computer - Dust An Elysian Tail - Forest Objects (1)_112
+    21300226: PC Computer - Dust An Elysian Tail - Forest Objects (1)_113
+    21300228: PC Computer - Dust An Elysian Tail - Forest Objects (1)_114
+    21300230: PC Computer - Dust An Elysian Tail - Forest Objects (1)_115
+    21300232: PC Computer - Dust An Elysian Tail - Forest Objects (1)_116
+    21300234: PC Computer - Dust An Elysian Tail - Forest Objects (1)_117
+    21300236: PC Computer - Dust An Elysian Tail - Forest Objects (1)_118
+    21300238: PC Computer - Dust An Elysian Tail - Forest Objects (1)_119
+    21300240: PC Computer - Dust An Elysian Tail - Forest Objects (1)_120
+    21300242: PC Computer - Dust An Elysian Tail - Forest Objects (1)_121
+    21300244: PC Computer - Dust An Elysian Tail - Forest Objects (1)_122
+    21300246: PC Computer - Dust An Elysian Tail - Forest Objects (1)_123
+    21300248: PC Computer - Dust An Elysian Tail - Forest Objects (1)_124
+    21300250: PC Computer - Dust An Elysian Tail - Forest Objects (1)_125
+    21300252: PC Computer - Dust An Elysian Tail - Forest Objects (1)_126
+    21300254: PC Computer - Dust An Elysian Tail - Forest Objects (1)_127
+    21300256: PC Computer - Dust An Elysian Tail - Forest Objects (1)_128
+    21300258: PC Computer - Dust An Elysian Tail - Forest Objects (1)_129
+    21300260: PC Computer - Dust An Elysian Tail - Forest Objects (1)_130
+    21300262: PC Computer - Dust An Elysian Tail - Forest Objects (1)_131
+    21300264: PC Computer - Dust An Elysian Tail - Forest Objects (1)_132
+    21300266: PC Computer - Dust An Elysian Tail - Forest Objects (1)_133
+    21300268: PC Computer - Dust An Elysian Tail - Forest Objects (1)_134
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 275
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3782
+        width: 1030
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 156.5, y: -78.5}
+        - {x: 190.5, y: -77.5}
+        - {x: 200.5, y: -78.5}
+        - {x: 254.5, y: -78.5}
+        - {x: 257.5, y: -74.5}
+        - {x: 257.5, y: 61.5}
+        - {x: 253.5, y: 73.5}
+        - {x: 244.5, y: 78.5}
+        - {x: 4.5, y: 78.5}
+        - {x: -3.5, y: 74.5}
+        - {x: -24.5, y: 78.5}
+        - {x: -248.5, y: 78.5}
+        - {x: -256.5, y: 75.5}
+        - {x: -257.5, y: 75.5}
+        - {x: -257.5, y: -72.5}
+        - {x: -249.5, y: -77.5}
+        - {x: -195.5, y: -78.5}
+        - {x: -160.5, y: -77.5}
+        - {x: -99.5, y: -77.5}
+        - {x: -64.5, y: -78.5}
+        - {x: 6.5, y: -78.5}
+        - {x: 21.5, y: -77.5}
+        - {x: 52.5, y: -78.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 3840
+        width: 830
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.5, y: -11}
+        - {x: -201.5, y: -13}
+        - {x: -201.5, y: -18}
+        - {x: -199.5, y: -20}
+        - {x: -196.5, y: -19}
+        - {x: -194.5, y: -51}
+        - {x: -139.5, y: -64}
+        - {x: 208.5, y: -64}
+        - {x: 208.5, y: 21}
+        - {x: 174.5, y: 52}
+        - {x: -54.5, y: 64}
+        - {x: -186.5, y: 64}
+        - {x: -207.5, y: 46}
+        - {x: -207.5, y: -64}
+        - {x: -201.5, y: -64}
+        - {x: -201.5, y: -14}
+        - {x: -204.5, y: -13}
+        - {x: -204.5, y: -9}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 3860
+        width: 270
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 47.5}
+        - {x: -37.5, y: 47.5}
+        - {x: -67.5, y: 13.5}
+        - {x: -67.5, y: -32.5}
+        - {x: -48.5, y: -47.5}
+        - {x: 59.5, y: -47.5}
+        - {x: 67.5, y: -35.5}
+        - {x: 67.5, y: 0.5}
+        - {x: 41.5, y: 38.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_3
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 3758
+        width: 574
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143.5, y: -75}
+        - {x: 143.5, y: 77}
+        - {x: 142.5, y: 80}
+        - {x: 139.5, y: 83}
+        - {x: 136.5, y: 84}
+        - {x: -136.5, y: 84}
+        - {x: -139.5, y: 83}
+        - {x: -142.5, y: 80}
+        - {x: -143.5, y: 77}
+        - {x: -143.5, y: -75}
+        - {x: -142.5, y: -79}
+        - {x: -140.5, y: -82}
+        - {x: -135.5, y: -84}
+        - {x: 135.5, y: -84}
+        - {x: 140.5, y: -82}
+        - {x: 142.5, y: -79}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_4
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 3758
+        width: 415
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104, y: 30}
+        - {x: 104, y: 80}
+        - {x: 98, y: 84}
+        - {x: -103, y: 84}
+        - {x: -104, y: 82}
+        - {x: -104, y: -84}
+        - {x: -42, y: -84}
+        - {x: -8, y: -76}
+        - {x: 10, y: -59}
+        - {x: 71, y: -35}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_5
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 3758
+        width: 414
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103.5, y: 75.5}
+        - {x: 90.5, y: 82.5}
+        - {x: -94.5, y: 82.5}
+        - {x: -103.5, y: 63.5}
+        - {x: -103.5, y: -73.5}
+        - {x: -100.5, y: -82.5}
+        - {x: -10.5, y: -82.5}
+        - {x: -0.5, y: -81.5}
+        - {x: 69.5, y: -37.5}
+        - {x: 103.5, y: 29.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_6
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 4020
+        width: 504
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126, y: -11}
+        - {x: -105, y: -19}
+        - {x: 112, y: -19}
+        - {x: 126, y: -18}
+        - {x: 126, y: 14}
+        - {x: 125, y: 15}
+        - {x: 120, y: 19}
+        - {x: -114, y: 19}
+        - {x: -126, y: 17}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_7
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 3918
+        width: 518
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: 24}
+        - {x: -105.5, y: 23}
+        - {x: -122.5, y: 21}
+        - {x: -129.5, y: 4}
+        - {x: -129.5, y: -22}
+        - {x: -127.5, y: -24}
+        - {x: 127.5, y: -24}
+        - {x: 129.5, y: -23}
+        - {x: 129.5, y: 22}
+        - {x: 128.5, y: 24}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_8
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 3210
+        width: 461
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -49.5}
+        - {x: 35, y: -49.5}
+        - {x: 38, y: -46.5}
+        - {x: 46, y: -58.5}
+        - {x: 86, y: -45.5}
+        - {x: 116, y: 21.5}
+        - {x: 116, y: 139.5}
+        - {x: 82, y: 155.5}
+        - {x: -48, y: 155.5}
+        - {x: -75, y: 133.5}
+        - {x: -115, y: 60.5}
+        - {x: -115, y: -155.5}
+        - {x: 12, y: -155.5}
+        - {x: 59, y: -81.5}
+        - {x: 15, y: -52.5}
+        - {x: -11, y: -44.5}
+      - - {x: 116, y: -155.5}
+        - {x: 116, y: -132.5}
+        - {x: 99, y: -81.5}
+        - {x: 68, y: -81.5}
+        - {x: 68, y: -155.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 3830
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_10
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 3752
+        width: 509
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 120, y: 40.5}
+        - {x: -120, y: 40.5}
+        - {x: -127, y: 21.5}
+        - {x: -127, y: -28.5}
+        - {x: -120, y: -35.5}
+        - {x: -77, y: -40.5}
+        - {x: 51, y: -40.5}
+        - {x: 106, y: -35.5}
+        - {x: 128, y: -24.5}
+        - {x: 128, y: 35.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3629
+        width: 262
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 34}
+        - {x: 26.5, y: 38}
+        - {x: -12.5, y: 38}
+        - {x: -41.5, y: 22}
+        - {x: -55.5, y: 8}
+        - {x: -65.5, y: -7}
+        - {x: -65.5, y: -27}
+        - {x: -64.5, y: -30}
+        - {x: -27.5, y: -37}
+        - {x: 35.5, y: -37}
+        - {x: 60.5, y: -32}
+        - {x: 65.5, y: -23}
+        - {x: 65.5, y: -10}
+        - {x: 56.5, y: -1}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 3632
+        width: 172
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 35}
+        - {x: -43, y: 14}
+        - {x: -43, y: -34}
+        - {x: -35, y: -35}
+        - {x: 37, y: -35}
+        - {x: 43, y: -27}
+        - {x: 43, y: 4}
+        - {x: 26, y: 35}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_13
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 3648
+        width: 149
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: -26.5}
+        - {x: 38, y: -26.5}
+        - {x: 38, y: 26.5}
+        - {x: 7, y: 26.5}
+        - {x: -34, y: 16.5}
+        - {x: -37, y: 6.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_14
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 3655
+        width: 195
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 30}
+        - {x: -42.5, y: 14}
+        - {x: -48.5, y: 6}
+        - {x: -48.5, y: -8}
+        - {x: -20.5, y: -29}
+        - {x: 3.5, y: -29}
+        - {x: 49.5, y: 3}
+        - {x: 49.5, y: 13}
+        - {x: 14.5, y: 30}
+      - - {x: -45.5, y: -8}
+        - {x: -42.5, y: -7}
+        - {x: -42.5, y: -4}
+        - {x: -45.5, y: -3}
+        - {x: -47.5, y: -5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_15
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 3662
+        width: 120
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -25}
+        - {x: -26, y: -25}
+        - {x: -26, y: -23}
+        - {x: -29, y: -22}
+        - {x: -30, y: -24}
+      - - {x: -23, y: -25}
+        - {x: -17, y: -25}
+        - {x: -17, y: -23}
+        - {x: -20, y: -20}
+        - {x: -23, y: -21}
+      - - {x: -8, y: -13}
+        - {x: -12, y: -16}
+        - {x: -12, y: -18}
+        - {x: -5, y: -25}
+        - {x: 10, y: -25}
+        - {x: 12, y: -22}
+        - {x: 12, y: -17}
+        - {x: 5, y: -13}
+      - - {x: -17, y: -22}
+        - {x: -16, y: -25}
+        - {x: -13, y: -25}
+        - {x: -11, y: -23}
+        - {x: -12, y: -20}
+        - {x: -15, y: -20}
+      - - {x: -30, y: 25}
+        - {x: -30, y: 0}
+        - {x: -27, y: -12}
+        - {x: -21, y: -19}
+        - {x: 4, y: -25}
+        - {x: 31, y: -25}
+        - {x: 31, y: 25}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_16
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 3694
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 3471
+        width: 616
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 155, y: 14}
+        - {x: 150, y: 30}
+        - {x: 116, y: 73}
+        - {x: 28, y: 90}
+        - {x: -107, y: 90}
+        - {x: -143, y: 65}
+        - {x: -154, y: 23}
+        - {x: -154, y: -29}
+        - {x: -146, y: -47}
+        - {x: -130, y: -64}
+        - {x: -108, y: -86}
+        - {x: -6, y: -73}
+        - {x: 29, y: -89}
+        - {x: 65, y: -89}
+        - {x: 95, y: -83}
+        - {x: 101, y: -75}
+        - {x: 138, y: -42}
+        - {x: 155, y: -25}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_18
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 2756
+        width: 1413
+        height: 998
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -92.5}
+        - {x: 82.5, y: -79.5}
+        - {x: 124.5, y: -72.5}
+        - {x: 155.5, y: -63.5}
+        - {x: 228.5, y: -32.5}
+        - {x: 261.5, y: -1.5}
+        - {x: 295.5, y: 97.5}
+        - {x: 353.5, y: 124.5}
+        - {x: 353.5, y: 247.5}
+        - {x: 343.5, y: 249.5}
+        - {x: 290.5, y: 249.5}
+        - {x: 189.5, y: 222.5}
+        - {x: 241.5, y: 48.5}
+        - {x: 101.5, y: -16.5}
+        - {x: 181.5, y: 103.5}
+        - {x: 163.5, y: 242.5}
+        - {x: 123.5, y: 245.5}
+        - {x: 112.5, y: 230.5}
+        - {x: 128.5, y: 119.5}
+        - {x: 28.5, y: 41.5}
+        - {x: 76.5, y: 189.5}
+        - {x: 69.5, y: 249.5}
+        - {x: 57.5, y: 249.5}
+        - {x: 43.5, y: 241.5}
+        - {x: 41.5, y: 230.5}
+        - {x: 12.5, y: 248.5}
+        - {x: 9.5, y: 249.5}
+        - {x: 0.5, y: 249.5}
+        - {x: -5.5, y: 247.5}
+        - {x: -9.5, y: 238.5}
+        - {x: -10.5, y: 211.5}
+        - {x: -9.5, y: 162.5}
+        - {x: -7.5, y: 130.5}
+        - {x: -4.5, y: 34.5}
+        - {x: -61.5, y: 106.5}
+        - {x: -55.5, y: 239.5}
+        - {x: -60.5, y: 246.5}
+        - {x: -74.5, y: 249.5}
+        - {x: -78.5, y: 249.5}
+        - {x: -104.5, y: 204.5}
+        - {x: -107.5, y: 148.5}
+        - {x: -145.5, y: 34.5}
+        - {x: -198.5, y: 63.5}
+        - {x: -188.5, y: 143.5}
+        - {x: -200.5, y: 249.5}
+        - {x: -231.5, y: 249.5}
+        - {x: -241.5, y: 223.5}
+        - {x: -284.5, y: 132.5}
+        - {x: -282.5, y: 249.5}
+        - {x: -313.5, y: 249.5}
+        - {x: -334.5, y: 203.5}
+        - {x: -340.5, y: 149.5}
+        - {x: -310.5, y: 47.5}
+        - {x: -224.5, y: -68.5}
+        - {x: -243.5, y: -153.5}
+        - {x: -341.5, y: -186.5}
+        - {x: -353.5, y: -208.5}
+        - {x: -353.5, y: -249.5}
+        - {x: 195.5, y: -249.5}
+        - {x: 202.5, y: -225.5}
+        - {x: 178.5, y: -192.5}
+      - - {x: -162.5, y: 35.5}
+        - {x: -161.5, y: 32.5}
+        - {x: -154.5, y: 32.5}
+        - {x: -152.5, y: 34.5}
+        - {x: -153.5, y: 37.5}
+        - {x: -160.5, y: 37.5}
+      - - {x: -86.5, y: 242.5}
+        - {x: -83.5, y: 243.5}
+        - {x: -83.5, y: 246.5}
+        - {x: -86.5, y: 247.5}
+        - {x: -88.5, y: 245.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_19
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 3505
+        width: 243
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: -61.5}
+        - {x: 53.5, y: -54.5}
+        - {x: 61.5, y: -32.5}
+        - {x: 61.5, y: 34.5}
+        - {x: 37.5, y: 62.5}
+        - {x: -38.5, y: 62.5}
+        - {x: -60.5, y: 41.5}
+        - {x: -60.5, y: -37.5}
+        - {x: -29.5, y: -61.5}
+        - {x: -21.5, y: -61.5}
+        - {x: -19.5, y: -59.5}
+        - {x: -19.5, y: -55.5}
+        - {x: -19.5, y: -61.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_20
+      rect:
+        serializedVersion: 2
+        x: 3831
+        y: 3542
+        width: 256
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 41.5}
+        - {x: -64, y: 38.5}
+        - {x: -64, y: -9.5}
+        - {x: -52, y: -34.5}
+        - {x: -28, y: -41.5}
+        - {x: 61, y: -41.5}
+        - {x: 65, y: -39.5}
+        - {x: 65, y: -0.5}
+        - {x: 19, y: 41.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_21
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 3662
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_22
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 3652
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3373
+        width: 331
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 63}
+        - {x: 32.5, y: 64}
+        - {x: -32.5, y: 64}
+        - {x: -53.5, y: 48}
+        - {x: -82.5, y: 12}
+        - {x: -82.5, y: -47}
+        - {x: -77.5, y: -63}
+        - {x: 68.5, y: -63}
+        - {x: 75.5, y: -60}
+        - {x: 83.5, y: -39}
+        - {x: 83.5, y: 4}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_24
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 3334
+        width: 320
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 72}
+        - {x: -80, y: 29}
+        - {x: -80, y: -42}
+        - {x: -46, y: -62}
+        - {x: -26, y: -72}
+        - {x: 10, y: -72}
+        - {x: 80, y: -51}
+        - {x: 80, y: -29}
+        - {x: 49, y: 72}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_25
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 3342
+        width: 174
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 70}
+        - {x: 25.5, y: 51}
+        - {x: 22.5, y: 62}
+        - {x: 17.5, y: 62}
+        - {x: 14.5, y: 61}
+        - {x: 20.5, y: 69}
+        - {x: 16.5, y: 70}
+        - {x: -39.5, y: 70}
+        - {x: -43.5, y: 69}
+        - {x: -43.5, y: -23}
+        - {x: 13.5, y: -70}
+        - {x: 43.5, y: -70}
+        - {x: 43.5, y: 60}
+        - {x: 34.5, y: 70}
+      - - {x: -43.5, y: -49}
+        - {x: -40.5, y: -48}
+        - {x: -40.5, y: -42}
+        - {x: -42.5, y: -40}
+        - {x: -43.5, y: -40}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_26
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 3352
+        width: 185
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.5, y: 67}
+        - {x: 14.5, y: 67}
+        - {x: 10.5, y: 49}
+        - {x: 2.5, y: 64}
+        - {x: -3.5, y: 67}
+        - {x: -6.5, y: 57}
+        - {x: -4.5, y: 45}
+        - {x: 0.5, y: 35}
+        - {x: 5.5, y: 29}
+        - {x: 5.5, y: 24}
+        - {x: 3.5, y: 30}
+        - {x: 1.5, y: 32}
+        - {x: -1.5, y: 31}
+        - {x: -1.5, y: 38}
+        - {x: -3.5, y: 40}
+        - {x: -10.5, y: 39}
+        - {x: -9.5, y: 12}
+        - {x: -46.5, y: -17}
+        - {x: -46.5, y: -65}
+        - {x: -45.5, y: -67}
+        - {x: -16.5, y: -67}
+        - {x: 38.5, y: -40}
+        - {x: 46.5, y: -16}
+        - {x: 46.5, y: 59}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 3421
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_28
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 3291
+        width: 210
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 52}
+        - {x: -38.5, y: 39}
+        - {x: -52.5, y: 7}
+        - {x: -52.5, y: -12}
+        - {x: -46.5, y: -11}
+        - {x: -43.5, y: -8}
+        - {x: -43.5, y: -6}
+        - {x: -43.5, y: -8}
+        - {x: -44.5, y: -12}
+        - {x: -48.5, y: -11}
+        - {x: -43.5, y: -26}
+        - {x: -19.5, y: -39}
+        - {x: 22.5, y: -51}
+        - {x: 22.5, y: -41}
+        - {x: 22.5, y: -43}
+        - {x: 30.5, y: -51}
+        - {x: 45.5, y: -51}
+        - {x: 53.5, y: -41}
+        - {x: 53.5, y: 42}
+        - {x: 29.5, y: 52}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_29
+      rect:
+        serializedVersion: 2
+        x: 3797
+        y: 3288
+        width: 202
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 52.5}
+        - {x: -37.5, y: 48.5}
+        - {x: -49.5, y: 33.5}
+        - {x: -50.5, y: 27.5}
+        - {x: -50.5, y: -22.5}
+        - {x: -32.5, y: -47.5}
+        - {x: -24.5, y: -52.5}
+        - {x: 14.5, y: -52.5}
+        - {x: 51.5, y: -20.5}
+        - {x: 51.5, y: 16.5}
+        - {x: 19.5, y: 52.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2662
+        width: 411
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 164.5}
+        - {x: 34, y: 156.5}
+        - {x: 0, y: 164.5}
+        - {x: -24, y: 164.5}
+        - {x: -33, y: 152.5}
+        - {x: -33, y: 135.5}
+        - {x: -39, y: 164.5}
+        - {x: -45, y: 164.5}
+        - {x: -54, y: 159.5}
+        - {x: -62, y: 143.5}
+        - {x: -78, y: 164.5}
+        - {x: -95, y: 164.5}
+        - {x: -100, y: 161.5}
+        - {x: -103, y: 158.5}
+        - {x: -103, y: 106.5}
+        - {x: -101, y: 94.5}
+        - {x: -70, y: 74.5}
+        - {x: -103, y: -61.5}
+        - {x: -103, y: -164.5}
+        - {x: 65, y: -164.5}
+        - {x: 102, y: -147.5}
+        - {x: 103, y: -133.5}
+        - {x: 103, y: 164.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_31
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 3318
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_32
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2651
+        width: 373
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.5, y: 169}
+        - {x: -49.5, y: 169}
+        - {x: -63.5, y: 156}
+        - {x: -70.5, y: 141}
+        - {x: -93.5, y: 133}
+        - {x: -93.5, y: -168}
+        - {x: 62.5, y: -168}
+        - {x: 73.5, y: -157}
+        - {x: 84.5, y: -137}
+        - {x: 93.5, y: -37}
+      - - {x: -67.5, y: 73}
+        - {x: -69.5, y: 72}
+        - {x: -69.5, y: 67}
+        - {x: -62.5, y: 67}
+        - {x: -62.5, y: 71}
+        - {x: -63.5, y: 73}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_33
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 2626
+        width: 701
+        height: 729
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: -96.5}
+        - {x: -51.5, y: -97.5}
+        - {x: -54.5, y: -94.5}
+        - {x: 124.5, y: -32.5}
+        - {x: 175.5, y: 59.5}
+        - {x: 175.5, y: 182.5}
+        - {x: -87.5, y: 182.5}
+        - {x: -90.5, y: 173.5}
+        - {x: -93.5, y: 163.5}
+        - {x: -137.5, y: 182.5}
+        - {x: -153.5, y: 182.5}
+        - {x: -159.5, y: 131.5}
+        - {x: -175.5, y: -40.5}
+        - {x: -175.5, y: -175.5}
+        - {x: -138.5, y: -182.5}
+        - {x: -62.5, y: -182.5}
+        - {x: 29.5, y: -170.5}
+        - {x: 39.5, y: -159.5}
+        - {x: -36.5, y: -94.5}
+      - - {x: 117.5, y: 64.5}
+        - {x: 116.5, y: 62.5}
+        - {x: 116.5, y: 55.5}
+        - {x: 123.5, y: 49.5}
+        - {x: 129.5, y: 49.5}
+        - {x: 131.5, y: 50.5}
+        - {x: 134.5, y: 58.5}
+        - {x: 134.5, y: 63.5}
+        - {x: 129.5, y: 64.5}
+      - - {x: -69.5, y: 156.5}
+        - {x: -65.5, y: 154.5}
+        - {x: -62.5, y: 155.5}
+        - {x: -62.5, y: 166.5}
+        - {x: -66.5, y: 168.5}
+        - {x: -69.5, y: 167.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_34
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 3132
+        width: 180
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 45.5}
+        - {x: -45, y: 16.5}
+        - {x: -45, y: -32.5}
+        - {x: -44, y: -32.5}
+        - {x: -1, y: -45.5}
+        - {x: 45, y: -45.5}
+        - {x: 45, y: -8.5}
+        - {x: 30, y: 45.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_35
+      rect:
+        serializedVersion: 2
+        x: 4083
+        y: 3283
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_36
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3051
+        width: 148
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 19.5}
+        - {x: -37, y: 16.5}
+        - {x: -37, y: -18.5}
+        - {x: 36, y: -18.5}
+        - {x: 37, y: -11.5}
+        - {x: 37, y: 19.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_37
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 2622
+        width: 259
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: -129.5}
+        - {x: -24, y: -139.5}
+        - {x: 19, y: -139.5}
+        - {x: 65, y: -131.5}
+        - {x: 65, y: -48.5}
+        - {x: 32, y: 139.5}
+        - {x: -23, y: 139.5}
+        - {x: -65, y: -93.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_38
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 2750
+        width: 523
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 131.5, y: -2}
+        - {x: 131.5, y: 130}
+        - {x: 130.5, y: 133}
+        - {x: 73.5, y: 133}
+        - {x: -75.5, y: 51}
+        - {x: -78.5, y: 45}
+        - {x: -76.5, y: 41}
+        - {x: -84.5, y: 45}
+        - {x: -106.5, y: 52}
+        - {x: -130.5, y: 10}
+        - {x: -130.5, y: -82}
+        - {x: -124.5, y: -115}
+        - {x: -118.5, y: -120}
+        - {x: -115.5, y: -119}
+        - {x: -113.5, y: -117}
+        - {x: -110.5, y: -113}
+        - {x: -109.5, y: -110}
+        - {x: -109.5, y: -104}
+        - {x: -109.5, y: -113}
+        - {x: -112.5, y: -118}
+        - {x: -114.5, y: -123}
+        - {x: -106.5, y: -133}
+        - {x: -59.5, y: -133}
+        - {x: -2.5, y: -121}
+        - {x: 78.5, y: -85}
+        - {x: 124.5, y: -16}
+      - - {x: -127.5, y: -123}
+        - {x: -125.5, y: -125}
+        - {x: -122.5, y: -124}
+        - {x: -122.5, y: -121}
+        - {x: -124.5, y: -119}
+        - {x: -127.5, y: -120}
+      - - {x: 2.5, y: 90}
+        - {x: 5.5, y: 91}
+        - {x: 5.5, y: 94}
+        - {x: 2.5, y: 95}
+        - {x: 0.5, y: 93}
+      - - {x: 68.5, y: 114}
+        - {x: 71.5, y: 115}
+        - {x: 71.5, y: 118}
+        - {x: 68.5, y: 119}
+        - {x: 66.5, y: 117}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_39
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 2951
+        width: 173
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 22.5}
+        - {x: -43, y: 20.5}
+        - {x: -43, y: -15.5}
+        - {x: -22, y: -21.5}
+        - {x: 36, y: -21.5}
+        - {x: 43, y: -15.5}
+        - {x: 44, y: -10.5}
+        - {x: 44, y: 22.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_40
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2768
+        width: 172
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 44}
+        - {x: -43, y: 25}
+        - {x: -43, y: -31}
+        - {x: -29, y: -44}
+        - {x: 31, y: -44}
+        - {x: 43, y: -36}
+        - {x: 43, y: 26}
+        - {x: 34, y: 44}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_41
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2671
+        width: 166
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 23.5}
+        - {x: -41.5, y: 11.5}
+        - {x: -27.5, y: -9.5}
+        - {x: -11.5, y: -22.5}
+        - {x: 11.5, y: -22.5}
+        - {x: 24.5, y: -19.5}
+        - {x: 42.5, y: 8.5}
+        - {x: 42.5, y: 23.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_42
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 1944
+        width: 865
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 127.5, y: -201.5}
+        - {x: 149.5, y: -180.5}
+        - {x: 170.5, y: -128.5}
+        - {x: 201.5, y: -98.5}
+        - {x: 216.5, y: -54.5}
+        - {x: 216.5, y: -26.5}
+        - {x: 214.5, y: -11.5}
+        - {x: 209.5, y: 0.5}
+        - {x: 205.5, y: 7.5}
+        - {x: 210.5, y: 38.5}
+        - {x: 216.5, y: 68.5}
+        - {x: 216.5, y: 135.5}
+        - {x: 212.5, y: 168.5}
+        - {x: 185.5, y: 201.5}
+        - {x: 153.5, y: 201.5}
+        - {x: 88.5, y: 152.5}
+        - {x: 75.5, y: 184.5}
+        - {x: 61.5, y: 188.5}
+        - {x: 44.5, y: 191.5}
+        - {x: 20.5, y: 187.5}
+        - {x: -23.5, y: 164.5}
+        - {x: -60.5, y: 182.5}
+        - {x: -93.5, y: 178.5}
+        - {x: -119.5, y: 187.5}
+        - {x: -132.5, y: 180.5}
+        - {x: -128.5, y: 168.5}
+        - {x: -124.5, y: 164.5}
+        - {x: -146.5, y: 186.5}
+        - {x: -181.5, y: 185.5}
+        - {x: -206.5, y: 164.5}
+        - {x: -216.5, y: 133.5}
+        - {x: -216.5, y: 98.5}
+        - {x: -206.5, y: 79.5}
+        - {x: -189.5, y: 65.5}
+        - {x: -198.5, y: 33.5}
+        - {x: -201.5, y: -9.5}
+        - {x: -208.5, y: -40.5}
+        - {x: -199.5, y: -75.5}
+        - {x: -202.5, y: -97.5}
+        - {x: -203.5, y: -103.5}
+        - {x: -195.5, y: -116.5}
+        - {x: -187.5, y: -116.5}
+        - {x: -181.5, y: -105.5}
+        - {x: -179.5, y: -98.5}
+        - {x: -186.5, y: -122.5}
+        - {x: -186.5, y: -128.5}
+        - {x: -166.5, y: -160.5}
+        - {x: -137.5, y: -179.5}
+        - {x: -111.5, y: -183.5}
+        - {x: -69.5, y: -185.5}
+        - {x: -37.5, y: -184.5}
+        - {x: -25.5, y: -196.5}
+        - {x: -13.5, y: -201.5}
+        - {x: 19.5, y: -201.5}
+        - {x: 30.5, y: -197.5}
+        - {x: 38.5, y: -187.5}
+        - {x: 70.5, y: -201.5}
+      - - {x: -207.5, y: -111.5}
+        - {x: -209.5, y: -113.5}
+        - {x: -209.5, y: -118.5}
+        - {x: -207.5, y: -120.5}
+        - {x: -205.5, y: -120.5}
+        - {x: -202.5, y: -117.5}
+        - {x: -202.5, y: -114.5}
+        - {x: -205.5, y: -111.5}
+      - - {x: 203.5, y: 187.5}
+        - {x: 203.5, y: 186.5}
+        - {x: 207.5, y: 183.5}
+        - {x: 210.5, y: 184.5}
+        - {x: 210.5, y: 187.5}
+        - {x: 208.5, y: 189.5}
+        - {x: 205.5, y: 189.5}
+      - - {x: 109.5, y: 199.5}
+        - {x: 110.5, y: 196.5}
+        - {x: 113.5, y: 196.5}
+        - {x: 115.5, y: 198.5}
+        - {x: 114.5, y: 201.5}
+        - {x: 111.5, y: 201.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_43
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 2436
+        width: 507
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 78.5}
+        - {x: -32.5, y: 77.5}
+        - {x: -38.5, y: 78.5}
+        - {x: -85.5, y: 78.5}
+        - {x: -125.5, y: 74.5}
+        - {x: -126.5, y: 71.5}
+        - {x: -126.5, y: -76.5}
+        - {x: -125.5, y: -78.5}
+        - {x: 127.5, y: -78.5}
+        - {x: 127.5, y: 76.5}
+        - {x: 91.5, y: 78.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_44
+      rect:
+        serializedVersion: 2
+        x: 3471
+        y: 2407
+        width: 514
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129.5, y: 62.5}
+        - {x: 85.5, y: 85.5}
+        - {x: 28.5, y: 85.5}
+        - {x: 2.5, y: 71.5}
+        - {x: -20.5, y: 85.5}
+        - {x: -50.5, y: 85.5}
+        - {x: -114.5, y: 52.5}
+        - {x: -128.5, y: 27.5}
+        - {x: -128.5, y: -14.5}
+        - {x: -122.5, y: -44.5}
+        - {x: -94.5, y: -84.5}
+        - {x: 120.5, y: -84.5}
+        - {x: 122.5, y: -81.5}
+        - {x: 125.5, y: -14.5}
+        - {x: 129.5, y: -6.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_45
+      rect:
+        serializedVersion: 2
+        x: 3992
+        y: 2417
+        width: 95
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 20}
+        - {x: 9, y: 32}
+        - {x: 17, y: 22}
+        - {x: 17, y: 10}
+        - {x: 19, y: 0}
+        - {x: 22, y: -4}
+        - {x: 24, y: -3}
+        - {x: 24, y: 43}
+        - {x: 6, y: 84}
+        - {x: -24, y: 84}
+        - {x: -24, y: 53}
+        - {x: -17, y: -50}
+        - {x: 8, y: -83}
+        - {x: 23, y: -83}
+        - {x: 24, y: -56}
+        - {x: 24, y: -37}
+        - {x: 22, y: -17}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1853
+        width: 760
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: -177}
+        - {x: 148, y: -176}
+        - {x: 165, y: -168}
+        - {x: 179, y: -148}
+        - {x: 185, y: -110}
+        - {x: 182, y: -87}
+        - {x: 191, y: -52}
+        - {x: 191, y: -17}
+        - {x: 189, y: -11}
+        - {x: 154, y: 50}
+        - {x: 147, y: 62}
+        - {x: 135, y: 94}
+        - {x: 113, y: 125}
+        - {x: 94, y: 146}
+        - {x: 68, y: 195}
+        - {x: 62, y: 196}
+        - {x: 55, y: 196}
+        - {x: 52, y: 195}
+        - {x: 31, y: 198}
+        - {x: 8, y: 198}
+        - {x: 5, y: 197}
+        - {x: -24, y: 196}
+        - {x: -62, y: 145}
+        - {x: -84, y: 110}
+        - {x: -91, y: 119}
+        - {x: -98, y: 120}
+        - {x: -138, y: 97}
+        - {x: -156, y: 56}
+        - {x: -139, y: 17}
+        - {x: -153, y: 3}
+        - {x: -171, y: -27}
+        - {x: -190, y: -72}
+        - {x: -190, y: -109}
+        - {x: -189, y: -113}
+        - {x: -166, y: -148}
+        - {x: -142, y: -149}
+        - {x: -133, y: -163}
+        - {x: -104, y: -190}
+        - {x: -81, y: -197}
+        - {x: -29, y: -197}
+        - {x: -15, y: -196}
+        - {x: -4, y: -197}
+        - {x: 10, y: -197}
+        - {x: 31, y: -188}
+        - {x: 76, y: -183}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_47
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1864
+        width: 233
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 95}
+        - {x: 55, y: 120}
+        - {x: 53, y: 140}
+        - {x: 48, y: 142}
+        - {x: 46, y: 138}
+        - {x: 46, y: 132}
+        - {x: 46, y: 138}
+        - {x: 47, y: 145}
+        - {x: 45, y: 147}
+        - {x: 41, y: 146}
+        - {x: 37, y: 135}
+        - {x: 6, y: 188}
+        - {x: -9, y: 188}
+        - {x: -20, y: 183}
+        - {x: -22, y: 178}
+        - {x: -9, y: 111}
+        - {x: -10, y: 56}
+        - {x: -12, y: 81}
+        - {x: -22, y: 103}
+        - {x: -30, y: 102}
+        - {x: -31, y: 99}
+        - {x: -44, y: 104}
+        - {x: -50, y: 106}
+        - {x: -52, y: 102}
+        - {x: -52, y: 101}
+        - {x: -50, y: 96}
+        - {x: -52, y: 98}
+        - {x: -52, y: 103}
+        - {x: -53, y: 109}
+        - {x: -55, y: 111}
+        - {x: -58, y: 111}
+        - {x: -58, y: 69}
+        - {x: -53, y: 44}
+        - {x: -46, y: 49}
+        - {x: -46, y: 36}
+        - {x: -45, y: 33}
+        - {x: -46, y: 32}
+        - {x: -46, y: 37}
+        - {x: -47, y: 40}
+        - {x: -52, y: 44}
+        - {x: -58, y: 41}
+        - {x: -56, y: 29}
+        - {x: -44, y: 17}
+        - {x: -54, y: -179}
+        - {x: -49, y: -182}
+        - {x: -32, y: -188}
+        - {x: 44, y: -188}
+        - {x: 59, y: -6}
+        - {x: 59, y: 97}
+        - {x: 55, y: 98}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_48
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 2024
+        width: 442
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101.5, y: -27}
+        - {x: 111.5, y: -26}
+        - {x: 111.5, y: -11}
+        - {x: 92.5, y: 126}
+        - {x: 43.5, y: 148}
+        - {x: -51.5, y: 148}
+        - {x: -110.5, y: 77}
+        - {x: -110.5, y: -75}
+        - {x: -69.5, y: -124}
+        - {x: -50.5, y: -129}
+        - {x: -49.5, y: -123}
+        - {x: -49.5, y: -118}
+        - {x: -49.5, y: -129}
+        - {x: -47.5, y: -133}
+        - {x: -38.5, y: -138}
+        - {x: -24.5, y: -143}
+        - {x: -21.5, y: -138}
+        - {x: -21.5, y: -136}
+        - {x: -21.5, y: -145}
+        - {x: -20.5, y: -148}
+        - {x: 21.5, y: -148}
+        - {x: 111.5, y: -113}
+        - {x: 111.5, y: -31}
+        - {x: 106.5, y: -27}
+      - - {x: -94.5, y: 148}
+        - {x: -94.5, y: 145}
+        - {x: -93.5, y: 143}
+        - {x: -88.5, y: 143}
+        - {x: -84.5, y: 147}
+        - {x: -84.5, y: 148}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_49
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 2610
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_50
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1864
+        width: 358
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.5, y: 173.5}
+        - {x: 61.5, y: 128.5}
+        - {x: 47.5, y: 98.5}
+        - {x: 46.5, y: 94.5}
+        - {x: 36.5, y: 102.5}
+        - {x: 19.5, y: 108.5}
+        - {x: 15.5, y: 102.5}
+        - {x: 20.5, y: 81.5}
+        - {x: -17.5, y: 6.5}
+        - {x: 17.5, y: 109.5}
+        - {x: 9.5, y: 121.5}
+        - {x: 5.5, y: 122.5}
+        - {x: -19.5, y: 122.5}
+        - {x: -46.5, y: 121.5}
+        - {x: -42.5, y: 115.5}
+        - {x: -30.5, y: 108.5}
+        - {x: -32.5, y: 105.5}
+        - {x: -36.5, y: 85.5}
+        - {x: -61.5, y: 146.5}
+        - {x: -74.5, y: 164.5}
+        - {x: -86.5, y: 161.5}
+        - {x: -71.5, y: 77.5}
+        - {x: -83.5, y: 33.5}
+        - {x: -74.5, y: 7.5}
+        - {x: -75.5, y: 8.5}
+        - {x: -87.5, y: 14.5}
+        - {x: -89.5, y: 13.5}
+        - {x: -89.5, y: -123.5}
+        - {x: -14.5, y: -173.5}
+        - {x: 90.5, y: -173.5}
+        - {x: 90.5, y: 163.5}
+        - {x: 85.5, y: 173.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_51
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 2069
+        width: 74
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 134}
+        - {x: -18.5, y: -126}
+        - {x: -9.5, y: -133}
+        - {x: 9.5, y: -133}
+        - {x: 18.5, y: -124}
+        - {x: 19.5, y: -122}
+        - {x: 19.5, y: 129}
+        - {x: 9.5, y: 134}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_52
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 2051
+        width: 56
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_53
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 2095
+        width: 506
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.5, y: 86}
+        - {x: -57.5, y: 86}
+        - {x: -97.5, y: 69}
+        - {x: -126.5, y: 25}
+        - {x: -126.5, y: -14}
+        - {x: -109.5, y: -37}
+        - {x: -105.5, y: -84}
+        - {x: -104.5, y: -85}
+        - {x: 104.5, y: -85}
+        - {x: 126.5, y: -36}
+        - {x: 126.5, y: 27}
+        - {x: 88.5, y: 69}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_54
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 2096
+        width: 342
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 74.5}
+        - {x: -20.5, y: 74.5}
+        - {x: -85.5, y: 37.5}
+        - {x: -85.5, y: -42.5}
+        - {x: -80.5, y: -57.5}
+        - {x: -37.5, y: -49.5}
+        - {x: -25.5, y: -36.5}
+        - {x: 9.5, y: -74.5}
+        - {x: 46.5, y: -74.5}
+        - {x: 86.5, y: -34.5}
+        - {x: 86.5, y: 23.5}
+        - {x: 63.5, y: 54.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_55
+      rect:
+        serializedVersion: 2
+        x: 3833
+        y: 1945
+        width: 243
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 87}
+        - {x: 37.5, y: 86}
+        - {x: 59.5, y: 90}
+        - {x: 61.5, y: 93}
+        - {x: 61.5, y: 113}
+        - {x: -60.5, y: 113}
+        - {x: -60.5, y: -112}
+        - {x: 61.5, y: -112}
+        - {x: 61.5, y: 85}
+        - {x: 56.5, y: 89}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_56
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1896
+        width: 314
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 20.5}
+        - {x: -73.5, y: 0.5}
+        - {x: -78.5, y: -9.5}
+        - {x: -78.5, y: -20.5}
+        - {x: 79.5, y: -20.5}
+        - {x: 79.5, y: -8.5}
+        - {x: 35.5, y: 20.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_57
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1872
+        width: 174
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 30.5}
+        - {x: -43.5, y: 21.5}
+        - {x: -43.5, y: -29.5}
+        - {x: -26.5, y: -28.5}
+        - {x: -20.5, y: -22.5}
+        - {x: -18.5, y: -15.5}
+        - {x: -19.5, y: -14.5}
+        - {x: -19.5, y: -12.5}
+        - {x: -19.5, y: -13.5}
+        - {x: -18.5, y: -14.5}
+        - {x: -19.5, y: -18.5}
+        - {x: -13.5, y: -30.5}
+        - {x: 44.5, y: -30.5}
+        - {x: 44.5, y: 3.5}
+        - {x: 30.5, y: 30.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_58
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 1947
+        width: 300
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 37}
+        - {x: -74, y: 13}
+        - {x: -75, y: 9}
+        - {x: -75, y: -36}
+        - {x: 76, y: -36}
+        - {x: 76, y: 15}
+        - {x: 18, y: 37}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_59
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 1952
+        width: 498
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109.5, y: 33.5}
+        - {x: -84.5, y: 33.5}
+        - {x: -124.5, y: 16.5}
+        - {x: -124.5, y: -33.5}
+        - {x: 123.5, y: -33.5}
+        - {x: 124.5, y: -31.5}
+        - {x: 124.5, y: 31.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_60
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 1942
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1339
+        width: 906
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 201.5, y: -43.5}
+        - {x: 223.5, y: -40.5}
+        - {x: 227.5, y: -34.5}
+        - {x: 227.5, y: 30.5}
+        - {x: 194.5, y: 65.5}
+        - {x: 166.5, y: 56.5}
+        - {x: 156.5, y: 79.5}
+        - {x: 139.5, y: 106.5}
+        - {x: 96.5, y: 116.5}
+        - {x: 41.5, y: 117.5}
+        - {x: 24.5, y: 124.5}
+        - {x: 10.5, y: 124.5}
+        - {x: -13.5, y: 114.5}
+        - {x: -14.5, y: 112.5}
+        - {x: -14.5, y: 107.5}
+        - {x: -31.5, y: 116.5}
+        - {x: -104.5, y: 115.5}
+        - {x: -157.5, y: 101.5}
+        - {x: -222.5, y: 60.5}
+        - {x: -226.5, y: 49.5}
+        - {x: -226.5, y: -6.5}
+        - {x: -213.5, y: -31.5}
+        - {x: -197.5, y: -47.5}
+        - {x: -135.5, y: -76.5}
+        - {x: -107.5, y: -90.5}
+        - {x: -42.5, y: -97.5}
+        - {x: -17.5, y: -121.5}
+        - {x: -9.5, y: -123.5}
+        - {x: 71.5, y: -123.5}
+        - {x: 123.5, y: -107.5}
+        - {x: 151.5, y: -100.5}
+        - {x: 173.5, y: -82.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_62
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1368
+        width: 92
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 114.5}
+        - {x: -23, y: -101.5}
+        - {x: -18, y: -114.5}
+        - {x: 23, y: -114.5}
+        - {x: 23, y: 114.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_63
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1320
+        width: 2457
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113.5, y: -150.5}
+        - {x: 178.5, y: -149.5}
+        - {x: 182.5, y: -112.5}
+        - {x: 344.5, y: -130.5}
+        - {x: 468.5, y: -134.5}
+        - {x: 600.5, y: -114.5}
+        - {x: 614.5, y: -98.5}
+        - {x: 614.5, y: -28.5}
+        - {x: 612.5, y: -13.5}
+        - {x: 605.5, y: 9.5}
+        - {x: 579.5, y: -21.5}
+        - {x: 537.5, y: 17.5}
+        - {x: 538.5, y: 68.5}
+        - {x: 517.5, y: 114.5}
+        - {x: 511.5, y: 118.5}
+        - {x: 502.5, y: 101.5}
+        - {x: 500.5, y: -20.5}
+        - {x: 460.5, y: -15.5}
+        - {x: 461.5, y: 74.5}
+        - {x: 444.5, y: 133.5}
+        - {x: 433.5, y: 136.5}
+        - {x: 422.5, y: 85.5}
+        - {x: 394.5, y: 154.5}
+        - {x: 381.5, y: 154.5}
+        - {x: 366.5, y: 119.5}
+        - {x: 365.5, y: -18.5}
+        - {x: 329.5, y: -23.5}
+        - {x: 324.5, y: 57.5}
+        - {x: 315.5, y: 111.5}
+        - {x: 308.5, y: 117.5}
+        - {x: 279.5, y: 48.5}
+        - {x: 276.5, y: -13.5}
+        - {x: 245.5, y: 14.5}
+        - {x: 281.5, y: 58.5}
+        - {x: 284.5, y: 71.5}
+        - {x: 256.5, y: 78.5}
+        - {x: 232.5, y: 52.5}
+        - {x: 217.5, y: 13.5}
+        - {x: 179.5, y: -89.5}
+        - {x: 179.5, y: -91.5}
+        - {x: 181.5, y: -96.5}
+        - {x: 179.5, y: -98.5}
+        - {x: 179.5, y: -87.5}
+        - {x: 181.5, y: -69.5}
+        - {x: 177.5, y: -45.5}
+        - {x: 82.5, y: -7.5}
+        - {x: -133.5, y: 97.5}
+        - {x: -195.5, y: 108.5}
+        - {x: -337.5, y: 89.5}
+        - {x: -430.5, y: 57.5}
+        - {x: -445.5, y: 33.5}
+        - {x: -606.5, y: -47.5}
+        - {x: -614.5, y: -57.5}
+        - {x: -614.5, y: -145.5}
+        - {x: -609.5, y: -148.5}
+        - {x: -553.5, y: -154.5}
+        - {x: -543.5, y: -154.5}
+        - {x: -541.5, y: -153.5}
+        - {x: -541.5, y: -150.5}
+        - {x: -540.5, y: -154.5}
+        - {x: 55.5, y: -154.5}
+        - {x: 55.5, y: -152.5}
+        - {x: 53.5, y: -150.5}
+      - - {x: 58.5, y: -149.5}
+        - {x: 55.5, y: -152.5}
+        - {x: 56.5, y: -154.5}
+        - {x: 174.5, y: -154.5}
+        - {x: 174.5, y: -152.5}
+        - {x: 173.5, y: -149.5}
+      - - {x: -585.5, y: -154.5}
+        - {x: -582.5, y: -153.5}
+        - {x: -582.5, y: -150.5}
+        - {x: -585.5, y: -149.5}
+        - {x: -587.5, y: -151.5}
+      - - {x: -576.5, y: -149.5}
+        - {x: -577.5, y: -151.5}
+        - {x: -576.5, y: -154.5}
+        - {x: -571.5, y: -154.5}
+        - {x: -568.5, y: -153.5}
+        - {x: -568.5, y: -150.5}
+        - {x: -570.5, y: -149.5}
+      - - {x: 310.5, y: -131.5}
+        - {x: 313.5, y: -130.5}
+        - {x: 313.5, y: -127.5}
+        - {x: 310.5, y: -126.5}
+        - {x: 308.5, y: -128.5}
+      - - {x: 268.5, y: 1.5}
+        - {x: 268.5, y: -7.5}
+        - {x: 271.5, y: -9.5}
+        - {x: 274.5, y: -8.5}
+        - {x: 275.5, y: -2.5}
+        - {x: 271.5, y: 1.5}
+      - - {x: 118.5, y: 152.5}
+        - {x: 104.5, y: 127.5}
+        - {x: 99.5, y: 116.5}
+        - {x: 99.5, y: 110.5}
+        - {x: 100.5, y: 106.5}
+        - {x: 118.5, y: 104.5}
+        - {x: 143.5, y: 104.5}
+        - {x: 151.5, y: 114.5}
+        - {x: 153.5, y: 117.5}
+        - {x: 153.5, y: 138.5}
+        - {x: 142.5, y: 152.5}
+      - - {x: -486.5, y: 154.5}
+        - {x: -505.5, y: 132.5}
+        - {x: -505.5, y: 121.5}
+        - {x: -500.5, y: 115.5}
+        - {x: -424.5, y: 115.5}
+        - {x: -424.5, y: 135.5}
+        - {x: -443.5, y: 154.5}
+      - - {x: -39.5, y: 143.5}
+        - {x: -39.5, y: 115.5}
+        - {x: 23.5, y: 115.5}
+        - {x: 24.5, y: 120.5}
+        - {x: 24.5, y: 143.5}
+      - - {x: 42.5, y: 142.5}
+        - {x: 36.5, y: 137.5}
+        - {x: 36.5, y: 120.5}
+        - {x: 40.5, y: 116.5}
+        - {x: 82.5, y: 116.5}
+        - {x: 94.5, y: 122.5}
+        - {x: 94.5, y: 138.5}
+        - {x: 89.5, y: 142.5}
+      - - {x: -83.5, y: 144.5}
+        - {x: -84.5, y: 139.5}
+        - {x: -84.5, y: 121.5}
+        - {x: -77.5, y: 118.5}
+        - {x: -55.5, y: 118.5}
+        - {x: -51.5, y: 121.5}
+        - {x: -51.5, y: 139.5}
+        - {x: -54.5, y: 144.5}
+      - - {x: -221.5, y: 154.5}
+        - {x: -227.5, y: 149.5}
+        - {x: -227.5, y: 128.5}
+        - {x: -225.5, y: 119.5}
+        - {x: -199.5, y: 119.5}
+        - {x: -186.5, y: 120.5}
+        - {x: -182.5, y: 129.5}
+        - {x: -180.5, y: 136.5}
+        - {x: -181.5, y: 137.5}
+        - {x: -181.5, y: 139.5}
+        - {x: -181.5, y: 138.5}
+        - {x: -180.5, y: 137.5}
+        - {x: -181.5, y: 129.5}
+        - {x: -177.5, y: 119.5}
+        - {x: -120.5, y: 119.5}
+        - {x: -116.5, y: 120.5}
+        - {x: -116.5, y: 154.5}
+      - - {x: -263.5, y: 154.5}
+        - {x: -411.5, y: 154.5}
+        - {x: -411.5, y: 134.5}
+        - {x: -406.5, y: 132.5}
+        - {x: -253.5, y: 132.5}
+        - {x: -251.5, y: 136.5}
+        - {x: -251.5, y: 145.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_64
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 1671
+        width: 590
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.5, y: 68}
+        - {x: -41.5, y: 68}
+        - {x: -147.5, y: -37}
+        - {x: -147.5, y: -55}
+        - {x: -135.5, y: -60}
+        - {x: -55.5, y: -67}
+        - {x: 48.5, y: -67}
+        - {x: 53.5, y: -65}
+        - {x: 139.5, y: -59}
+        - {x: 148.5, y: -50}
+        - {x: 148.5, y: -25}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_65
+      rect:
+        serializedVersion: 2
+        x: 3513
+        y: 1397
+        width: 455
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 68}
+        - {x: -22.5, y: 68}
+        - {x: -113.5, y: -26}
+        - {x: -113.5, y: -52}
+        - {x: -105.5, y: -67}
+        - {x: 114.5, y: -67}
+        - {x: 114.5, y: -33}
+        - {x: 112.5, y: -32}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_66
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 1396
+        width: 61
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 1008
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 212, y: -108}
+        - {x: 223, y: -100}
+        - {x: 244, y: -54}
+        - {x: 226, y: -27}
+        - {x: 205, y: -15}
+        - {x: 230, y: -6}
+        - {x: 252, y: 11}
+        - {x: 252, y: 63}
+        - {x: 250, y: 84}
+        - {x: 232, y: 119}
+        - {x: 198, y: 137}
+        - {x: 166, y: 113}
+        - {x: 153, y: 84}
+        - {x: 145, y: 115}
+        - {x: 125, y: 162}
+        - {x: 114, y: 167}
+        - {x: 79, y: 167}
+        - {x: 74, y: 166}
+        - {x: 62, y: 142}
+        - {x: 47, y: 144}
+        - {x: 18, y: 141}
+        - {x: -3, y: 124}
+        - {x: -18, y: 102}
+        - {x: -41, y: 139}
+        - {x: -65, y: 156}
+        - {x: -71, y: 156}
+        - {x: -92, y: 159}
+        - {x: -112, y: 152}
+        - {x: -166, y: 107}
+        - {x: -174, y: 86}
+        - {x: -175, y: 82}
+        - {x: -204, y: 88}
+        - {x: -229, y: 74}
+        - {x: -246, y: 42}
+        - {x: -252, y: 25}
+        - {x: -252, y: -14}
+        - {x: -241, y: -35}
+        - {x: -228, y: -89}
+        - {x: -211, y: -102}
+        - {x: -203, y: -100}
+        - {x: -201, y: -98}
+        - {x: -193, y: -111}
+        - {x: -179, y: -129}
+        - {x: -192, y: -140}
+        - {x: -192, y: -145}
+        - {x: -191, y: -162}
+        - {x: -185, y: -167}
+        - {x: 230, y: -167}
+        - {x: 234, y: -165}
+        - {x: 234, y: -137}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_68
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 668
+        width: 982
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 173.5, y: -115}
+        - {x: 166.5, y: -116}
+        - {x: 180.5, y: -114}
+        - {x: 196.5, y: -105}
+        - {x: 207.5, y: -84}
+        - {x: 246.5, y: -49}
+        - {x: 246.5, y: 18}
+        - {x: 238.5, y: 49}
+        - {x: 193.5, y: 77}
+        - {x: 182.5, y: 68}
+        - {x: 181.5, y: 99}
+        - {x: 166.5, y: 121}
+        - {x: 137.5, y: 135}
+        - {x: 104.5, y: 149}
+        - {x: 81.5, y: 153}
+        - {x: 58.5, y: 145}
+        - {x: 35.5, y: 121}
+        - {x: 32.5, y: 135}
+        - {x: 23.5, y: 149}
+        - {x: 67.5, y: 154}
+        - {x: 158.5, y: 156}
+        - {x: 246.5, y: 157}
+        - {x: 246.5, y: 165}
+        - {x: 201.5, y: 166}
+        - {x: -154.5, y: 166}
+        - {x: -156.5, y: 163}
+        - {x: -155.5, y: 159}
+        - {x: -109.5, y: 151}
+        - {x: -142.5, y: 131}
+        - {x: -196.5, y: 111}
+        - {x: -211.5, y: 90}
+        - {x: -215.5, y: 82}
+        - {x: -235.5, y: 43}
+        - {x: -245.5, y: 21}
+        - {x: -245.5, y: -6}
+        - {x: -229.5, y: -36}
+        - {x: -207.5, y: -68}
+        - {x: -196.5, y: -90}
+        - {x: -175.5, y: -117}
+        - {x: -188.5, y: -127}
+        - {x: -196.5, y: -140}
+        - {x: -199.5, y: -149}
+        - {x: -199.5, y: -151}
+        - {x: -203.5, y: -158}
+        - {x: -202.5, y: -163}
+        - {x: -199.5, y: -166}
+        - {x: 192.5, y: -166}
+        - {x: 196.5, y: -165}
+        - {x: 191.5, y: -130}
+      - - {x: -201.5, y: 160}
+        - {x: -198.5, y: 161}
+        - {x: -198.5, y: 164}
+        - {x: -201.5, y: 165}
+        - {x: -203.5, y: 163}
+      - - {x: -192.5, y: 165}
+        - {x: -193.5, y: 163}
+        - {x: -192.5, y: 160}
+        - {x: -187.5, y: 160}
+        - {x: -184.5, y: 161}
+        - {x: -184.5, y: 164}
+        - {x: -186.5, y: 165}
+      - - {x: -162.5, y: 162}
+        - {x: -160.5, y: 160}
+        - {x: -157.5, y: 161}
+        - {x: -157.5, y: 164}
+        - {x: -159.5, y: 166}
+        - {x: -162.5, y: 165}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_69
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1318
+        width: 312
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_70
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 1159
+        width: 222
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 45}
+        - {x: -55.5, y: 44}
+        - {x: -55.5, y: -44}
+        - {x: 23.5, y: -44}
+        - {x: 56.5, y: -35}
+        - {x: 56.5, y: 39}
+        - {x: 52.5, y: 45}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_71
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 1320
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_72
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1320
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_73
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 1314
+        width: 188
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_74
+      rect:
+        serializedVersion: 2
+        x: 3597
+        y: 1167
+        width: 499
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116.5, y: 55}
+        - {x: -124.5, y: 33}
+        - {x: -124.5, y: -54}
+        - {x: 125.5, y: -54}
+        - {x: 125.5, y: 44}
+        - {x: 90.5, y: 55}
+      - - {x: 111.5, y: -14}
+        - {x: 114.5, y: -13}
+        - {x: 114.5, y: -10}
+        - {x: 111.5, y: -9}
+        - {x: 109.5, y: -11}
+      - - {x: 112.5, y: 47}
+        - {x: 115.5, y: 48}
+        - {x: 115.5, y: 51}
+        - {x: 112.5, y: 52}
+        - {x: 110.5, y: 50}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_75
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 1152
+        width: 98
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 40.5}
+        - {x: -20.5, y: 40.5}
+        - {x: -24.5, y: -11.5}
+        - {x: -24.5, y: -40.5}
+        - {x: 1.5, y: -40.5}
+        - {x: 13.5, y: -35.5}
+        - {x: 25.5, y: 6.5}
+        - {x: 25.5, y: 26.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_76
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 1151
+        width: 60
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_77
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 1137
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_78
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 261
+        width: 110
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: -79.5}
+        - {x: 28.5, y: -41.5}
+        - {x: 28.5, y: 63.5}
+        - {x: -6.5, y: 80.5}
+        - {x: -27.5, y: 80.5}
+        - {x: -27.5, y: -79.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 267
+        width: 101
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 11}
+        - {x: -25.5, y: -85}
+        - {x: -15.5, y: -85}
+        - {x: 25.5, y: 77}
+        - {x: 25.5, y: 86}
+        - {x: 11.5, y: 86}
+        - {x: -22.5, y: 65}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_80
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 261
+        width: 28
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_81
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 257
+        width: 41
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_82
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 265
+        width: 55
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_83
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 260
+        width: 38
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_84
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 265
+        width: 34
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_85
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 261
+        width: 24
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_86
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 267
+        width: 112
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 88}
+        - {x: -28, y: 56}
+        - {x: -28, y: -11}
+        - {x: -14, y: -87}
+        - {x: -1, y: -87}
+        - {x: 2, y: -85}
+        - {x: 1, y: -71}
+        - {x: 3, y: -84}
+        - {x: 4, y: -87}
+        - {x: 14, y: -87}
+        - {x: 29, y: 54}
+        - {x: 29, y: 88}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_87
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 273
+        width: 24
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_88
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 269
+        width: 93
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 80}
+        - {x: -16.5, y: 74}
+        - {x: -23.5, y: 60}
+        - {x: -23.5, y: -79}
+        - {x: -7.5, y: -79}
+        - {x: 23.5, y: -4}
+        - {x: 23.5, y: 80}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_89
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 172
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 24.5}
+        - {x: -27, y: 12.5}
+        - {x: -33, y: -2.5}
+        - {x: -33, y: -24.5}
+        - {x: 43, y: -24.5}
+        - {x: 43, y: 21.5}
+        - {x: 42, y: 24.5}
+      - - {x: -43, y: -21.5}
+        - {x: -40, y: -20.5}
+        - {x: -40, y: -12.5}
+        - {x: -42, y: -10.5}
+        - {x: -43, y: -10.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_90
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 195
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 28.5}
+        - {x: -46.5, y: 12.5}
+        - {x: -48.5, y: 10.5}
+        - {x: -48.5, y: -21.5}
+        - {x: -40.5, y: -28.5}
+        - {x: 21.5, y: -28.5}
+        - {x: 49.5, y: -17.5}
+        - {x: 49.5, y: 14.5}
+        - {x: 15.5, y: 28.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_91
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 15
+        width: 129
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -22.5}
+        - {x: -25, y: -24.5}
+        - {x: -19, y: -24.5}
+        - {x: -19, y: -23.5}
+        - {x: -22, y: -20.5}
+        - {x: -23, y: -20.5}
+      - - {x: 1, y: -12.5}
+        - {x: -2, y: -12.5}
+        - {x: -3, y: -14.5}
+        - {x: -3, y: -17.5}
+        - {x: -3, y: -12.5}
+        - {x: -9, y: -12.5}
+        - {x: -14, y: -14.5}
+        - {x: -14, y: -18.5}
+        - {x: -13, y: -21.5}
+        - {x: -9, y: -24.5}
+        - {x: 9, y: -24.5}
+        - {x: 11, y: -22.5}
+        - {x: 11, y: -18.5}
+        - {x: 10, y: -16.5}
+      - - {x: -31, y: 25.5}
+        - {x: -32, y: 23.5}
+        - {x: -32, y: -3.5}
+        - {x: -31, y: -19.5}
+        - {x: -3, y: -24.5}
+        - {x: 30, y: -24.5}
+        - {x: 30, y: 13.5}
+        - {x: 27, y: 25.5}
+      - - {x: -32, y: -23.5}
+        - {x: -31, y: -24.5}
+        - {x: -28, y: -23.5}
+        - {x: -28, y: -20.5}
+        - {x: -31, y: -19.5}
+        - {x: -32, y: -20.5}
+      - - {x: -16, y: -24.5}
+        - {x: -13, y: -23.5}
+        - {x: -13, y: -20.5}
+        - {x: -16, y: -19.5}
+        - {x: -18, y: -21.5}
+      - - {x: -28, y: -1.5}
+        - {x: -29, y: -3.5}
+        - {x: -29, y: -7.5}
+        - {x: -27, y: -8.5}
+        - {x: -26, y: -8.5}
+        - {x: -23, y: -7.5}
+        - {x: -23, y: -3.5}
+        - {x: -24, y: -1.5}
+      - - {x: 30, y: -4.5}
+        - {x: 32, y: -6.5}
+        - {x: 33, y: -6.5}
+        - {x: 33, y: -0.5}
+        - {x: 30, y: -1.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_92
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 88
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_93
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 51
+        width: 164
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 23.5}
+        - {x: 24, y: 22.5}
+        - {x: 8, y: 23.5}
+        - {x: -41, y: 23.5}
+        - {x: -41, y: 9.5}
+        - {x: -23, y: -20.5}
+        - {x: -15, y: -22.5}
+        - {x: 12, y: -22.5}
+        - {x: 30, y: -7.5}
+        - {x: 42, y: 15.5}
+        - {x: 42, y: 23.5}
+      - - {x: -41, y: -3.5}
+        - {x: -39, y: -5.5}
+        - {x: -36, y: -4.5}
+        - {x: -36, y: -1.5}
+        - {x: -40, y: 2.5}
+        - {x: -41, y: 2.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_94
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 89
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_95
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 3
+        width: 57
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_96
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 75
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_97
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 75
+        width: 96
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_98
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 77
+        width: 120
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 17}
+        - {x: -30, y: 12}
+        - {x: -30, y: -11}
+        - {x: -28, y: -16}
+        - {x: 25, y: -16}
+        - {x: 31, y: -7}
+        - {x: 31, y: 17}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_99
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 77
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 10.5}
+        - {x: 5, y: 17.5}
+        - {x: -22, y: 17.5}
+        - {x: -20, y: 8.5}
+        - {x: -18, y: 6.5}
+        - {x: -22, y: 0.5}
+        - {x: -22, y: -14.5}
+        - {x: -15, y: -16.5}
+        - {x: 8, y: -16.5}
+        - {x: 19, y: -9.5}
+        - {x: 22, y: -3.5}
+        - {x: 22, y: 8.5}
+      - - {x: 21, y: 17.5}
+        - {x: 20, y: 15.5}
+        - {x: 22, y: 13.5}
+        - {x: 23, y: 13.5}
+        - {x: 23, y: 17.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_100
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 81
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_101
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 0
+        width: 122
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -0.5}
+        - {x: -16.5, y: -0.5}
+        - {x: -30.5, y: -12.5}
+        - {x: -30.5, y: -24.5}
+        - {x: -27.5, y: -35.5}
+        - {x: -8.5, y: -35.5}
+        - {x: -2.5, y: -11.5}
+        - {x: -3.5, y: -5.5}
+        - {x: -5.5, y: -1.5}
+      - - {x: -30.5, y: 35.5}
+        - {x: -30.5, y: -13.5}
+        - {x: -10.5, y: -35.5}
+        - {x: 25.5, y: -35.5}
+        - {x: 31.5, y: -30.5}
+        - {x: 31.5, y: 35.5}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_102
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 72
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18}
+        - {x: -16, y: -18}
+        - {x: 15, y: -18}
+        - {x: 17, y: -17}
+        - {x: 17, y: 11}
+        - {x: 5, y: 18}
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_103
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 79
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_104
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 79
+        width: 92
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_105
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 14
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_106
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_107
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 0
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_108
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_109
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_110
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 0
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_111
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 0
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_112
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 0
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_113
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 0
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_114
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 0
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_115
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 0
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_116
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 3
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_117
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 2
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_118
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 3
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_119
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 3
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_120
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 4
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_121
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 3
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_122
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_123
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 3
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_124
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 5
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_125
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 5
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_126
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 5
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_127
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 3
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_128
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 5
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_129
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 5
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_130
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 7
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_131
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 6
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_132
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 5
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_133
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 5
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Dust An Elysian Tail - Forest Objects (1)_134
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 7
+        width: 180
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
