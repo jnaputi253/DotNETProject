@@ -1,0 +1,6 @@
+5.4.0f3:2.2.0.0
+StandaloneOSXIntel
+/Applications/Unity/Unity.app/Contents/Managed/UnityEngine.dll
+/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.dll
